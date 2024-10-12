@@ -9,8 +9,3 @@
 ## Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shima-zu&theme=tokyonight)
-
-## Contact
-
-- X [@hoge]()
-- LinkedIn
